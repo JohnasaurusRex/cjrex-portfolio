@@ -117,14 +117,14 @@ export default function Portfolio(): JSX.Element {
       description: "Developed a classifier model to predict abaca fiber grade using VGGNet CNN architecture for supervised learning and K-means Clustering with Grid Search and Random Forest Classifier for unsupervised learning model.",
       accuracy: "91% (Supervised) | 97% (Unsupervised)",
       technologies: ["Python", "TensorFlow", "Machine Learning", "Computer Vision"],
-      link: "#"
+      link: "https://drive.google.com/file/d/112TUKLFwt2fvM0evFr8uAemQn6L-kUU7/view"
     },
     {
       title: "JobMatch Analyzer",
       description: "Developed a resume analyzer web application using React JS with Flask to evaluate resume compatibility with specific job descriptions using Google Gemini AI API.",
       technologies: ["React", "Flask", "NLP", "Google Gemini AI"],
-      github: "#",
-      live: "#"
+      github: "https://github.com/JohnasaurusRex/jobmatch-v2",
+      live: "https://jobmatch-v2.cjrex.online/"
     }
   ];
 
